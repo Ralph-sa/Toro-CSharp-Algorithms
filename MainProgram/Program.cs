@@ -1,5 +1,5 @@
 ﻿using System;
-
+using DataStructuresTest;
 namespace MyAlgorithms
 {
     class Program
@@ -7,6 +7,7 @@ namespace MyAlgorithms
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            SkipListTest.DoTest();
         }
     }
 }
