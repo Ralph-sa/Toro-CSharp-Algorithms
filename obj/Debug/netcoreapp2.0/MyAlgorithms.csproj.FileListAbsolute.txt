@@ -1,0 +1,10 @@
+D:\LearnProject\MyAlgorithms\bin\Debug\netcoreapp2.0\MyAlgorithms.deps.json
+D:\LearnProject\MyAlgorithms\bin\Debug\netcoreapp2.0\MyAlgorithms.runtimeconfig.json
+D:\LearnProject\MyAlgorithms\bin\Debug\netcoreapp2.0\MyAlgorithms.runtimeconfig.dev.json
+D:\LearnProject\MyAlgorithms\bin\Debug\netcoreapp2.0\MyAlgorithms.dll
+D:\LearnProject\MyAlgorithms\bin\Debug\netcoreapp2.0\MyAlgorithms.pdb
+D:\LearnProject\MyAlgorithms\obj\Debug\netcoreapp2.0\MyAlgorithms.csproj.CoreCompileInputs.cache
+D:\LearnProject\MyAlgorithms\obj\Debug\netcoreapp2.0\MyAlgorithms.AssemblyInfoInputs.cache
+D:\LearnProject\MyAlgorithms\obj\Debug\netcoreapp2.0\MyAlgorithms.AssemblyInfo.cs
+D:\LearnProject\MyAlgorithms\obj\Debug\netcoreapp2.0\MyAlgorithms.dll
+D:\LearnProject\MyAlgorithms\obj\Debug\netcoreapp2.0\MyAlgorithms.pdb
