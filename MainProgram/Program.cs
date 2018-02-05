@@ -7,7 +7,10 @@ namespace MyAlgorithms
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            SkipListTest.DoTest();
+            // SkipListTest.DoTest();
+            // SkipListTest.DoTest2();
+            //  SkipListTest.DoTest3();
+            ArrayListTest.DoTest();
         }
     }
 }
