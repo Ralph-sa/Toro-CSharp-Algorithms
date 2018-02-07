@@ -11,10 +11,11 @@ namespace DataStructures.Trees
         bool AllowsDuplicates { get; }
         void Insert(T item);
         void Insert(T[] collection);
+        void Insert(List<T> collection);
         void RemoveMin();
         void RemoveMax();
         void Remove(T item);
-        void Contains(T item);
+        bool Contains(T item);
         T FindMin();
         T FindMax();
         T Find(T item);
